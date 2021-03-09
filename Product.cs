@@ -24,6 +24,8 @@ namespace Linq_com_Lambda
                 + category.name
                 + ", "
                 + category.tier;
+
+            // teste commit git 
         }
     }
 }
