@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 
 namespace Linq_com_Lambda
-{
+{//******************************
     class Program
     {
         static void Print<T>(string message, IEnumerable<T> collection)
